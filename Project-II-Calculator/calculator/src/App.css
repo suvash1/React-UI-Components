@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .calculator-container {
+    max-width: 400px;
+    border: 2px solid blue;
+  }
+
+  .symbols {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    align-items: flex-end;
+    border: 2px solid green;
+  }
